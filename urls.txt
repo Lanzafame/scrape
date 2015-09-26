@@ -1,0 +1,47 @@
+
+Found 44 unique urls:
+
+ - http://www.snarl.com.au/termsandconditions
+ - http://www.snarl.com.au/jobs
+ - http://queensland.snarl.com.au/incidents/single/281260
+ - http://queensland.snarl.com.au/rss/
+ - http://queensland.snarl.com.au/incidents?p=9
+ - http://131940.qld.gov.au
+ - http://queensland.snarl.com.au/incidents/single/281259
+ - http://www.brisbanetimes.com.au/queensland/legacy-way-tunnel-to-open-thursday-night-20150624-ghx1vu.html
+ - https://itunes.apple.com/au/app/snarl-traffic/id323967377?mt=8
+ - http://www.snarl.com.au/blog
+ - http://queensland.snarl.com.au/incidents
+ - http://queensland.snarl.com.au/incidents?p=2
+ - http://www.snarl.com.au/contact
+ - http://www.snarl.com.au/privacy
+ - http://victoria.snarl.com.au
+ - http://queensland.snarl.com.au/incidents?p=10
+ - http://queensland.snarl.com.au/incidents/single/281254
+ - http://www.snarl.com.au/about
+ - http://queensland.snarl.com.au/cams
+ - http://queensland.snarl.com.au/incidents/single/281257
+ - http://queensland.snarl.com.au/incidents/single/281262
+ - http://www.9news.com.au/national/2015/06/25/08/05/legacy-way-gets-green-light-for-traffic
+ - https://play.google.com/store/apps/details?id=com.snarltraffic&hl=en
+ - http://queensland.snarl.com.au/incidents?p=7
+ - http://queensland.snarl.com.au/incidents/single/281263
+ - http://queensland.snarl.com.au/incidents?p=6
+ - http://queensland.snarl.com.au/incidents/single/281261
+ - http://queensland.snarl.com.au/incidents/single/281256
+ - http://queensland.snarl.com.au/incidents/single/281255
+ - http://queensland.snarl.com.au/faq#rss_guide
+ - http://www.brisbanetimes.com.au/queensland/brisbane-weather-fog-blankets-city-again-20150624-ghx4xg.html
+ - http://queensland.snarl.com.au/map
+ - http://queensland.snarl.com.au/incidents?p=3
+ - http://www.abc.net.au/local/audio/2015/06/25/4261985.htm%3Fsite%3Dbrisbane
+ - http://www.snarl.com.au/faq
+ - http://www.couriermail.com.au/news/queensland/brisbane-anti-isis-fighter-ashley-dyball-pops-up-on-facebook-again/story-fnn8dlfs-1227415013506
+ - http://www.news.com.au/sport/afl/crows-coach-phil-walsh-warns-his-players-that-brisbane-will-be-no-walkover-at-the-gabba/story-fndv862c-1227414994464
+ - http://queensland.snarl.com.au/search
+ - http://queensland.snarl.com.au/incidents?p=4
+ - http://queensland.snarl.com.au/incidents?p=5
+ - http://queensland.snarl.com.au/incidents?p=8
+ - http://queensland.snarl.com.au/incidents/single/281258
+ - http://queensland.snarl.com.au/suburb
+ - http://www.snarl.com.au
